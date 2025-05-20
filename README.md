@@ -36,7 +36,7 @@ Permite enviar y recibir mensajes entre dos computadoras conectadas en la misma 
 
 ### 1. Ejecutar el servidor
 
-En una de las máquinas (por ejemplo con IP `192.168.2.3`):
+En una de las máquinas
 
 ```bash
 javac Servidor.java
