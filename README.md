@@ -19,7 +19,7 @@ Permite enviar y recibir mensajes entre dos computadoras conectadas en la misma 
 
 📁 src/
 * Servidor.java #Código del servidor que espera conexiones
-* Cliente.java #Código del cliente que envía el primer mensaje
+* Cliente.java #Código del cliente que envía el mensaje
 
 
 ---
